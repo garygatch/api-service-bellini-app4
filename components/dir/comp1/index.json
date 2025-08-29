@@ -1,0 +1,44 @@
+{
+  "type": "custom-component",
+  "name": "comp1",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [],
+    "components": [],
+    "scripts": [
+      {
+        "id": "nI8lebj9cdRVzz3xCUOSM",
+        "name": "dir"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "GBnYBQaBrQmTNpSOss0nT",
+        "name": "dir"
+      }
+    ]
+  },
+  "parentDirectoryId": "ZN4PgqjBU4_DZA0WSFUna",
+  "localStylesheets": [
+    {
+      "path": "b.css"
+    },
+    {
+      "path": "dir/a.css",
+      "parentDirectoryId": "GBnYBQaBrQmTNpSOss0nT"
+    }
+  ],
+  "localScripts": [
+    {
+      "path": "dir/a.js",
+      "parentDirectoryId": "nI8lebj9cdRVzz3xCUOSM"
+    },
+    {
+      "path": "b.js"
+    }
+  ]
+}
