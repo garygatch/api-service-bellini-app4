@@ -58,6 +58,13 @@
     {
       "path": "dir/a.css",
       "parentDirectoryId": "G5poabIoIxKVnLH2w32UB"
+    },
+    {
+      "path": "c.css"
+    },
+    {
+      "path": "dir/d.css",
+      "parentDirectoryId": "G5poabIoIxKVnLH2w32UB"
     }
   ],
   "localScripts": [
@@ -67,6 +74,13 @@
     },
     {
       "path": "b.js"
+    },
+    {
+      "path": "dir/d.js",
+      "parentDirectoryId": "782Wwu63avhxJHhJx_Z8D"
+    },
+    {
+      "path": "c.js"
     }
   ]
 }
